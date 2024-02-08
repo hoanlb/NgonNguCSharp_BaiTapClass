@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgonNguCSharp_BaiTapClass_C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgonNguCSharp_BaiTapClass_ClassAnimal", "NgonNguCSharp_BaiTapClass_ClassAnimal\NgonNguCSharp_BaiTapClass_ClassAnimal.csproj", "{6AB55E64-D68F-41A0-A8D1-CEB920995CEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgonNguCSharp_BaiTapClass_StaticMethod", "NgonNguCSharp_BaiTapClass_StaticMethod\NgonNguCSharp_BaiTapClass_StaticMethod.csproj", "{19FDFD21-B20B-4DBF-A5D2-0B2C13480E18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6AB55E64-D68F-41A0-A8D1-CEB920995CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AB55E64-D68F-41A0-A8D1-CEB920995CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AB55E64-D68F-41A0-A8D1-CEB920995CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19FDFD21-B20B-4DBF-A5D2-0B2C13480E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FDFD21-B20B-4DBF-A5D2-0B2C13480E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FDFD21-B20B-4DBF-A5D2-0B2C13480E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FDFD21-B20B-4DBF-A5D2-0B2C13480E18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
