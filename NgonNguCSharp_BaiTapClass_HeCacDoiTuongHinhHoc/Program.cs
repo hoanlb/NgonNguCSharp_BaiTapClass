@@ -8,7 +8,7 @@ namespace NgonNguCSharp_BaiTapClass_HeCacDoiTuongHinhHoc
          
     // }
 
-    public class AllTest
+    public class FullTest
     {
         static void Main(string[] args)
         {
