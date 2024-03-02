@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgonNguCSharp_BaiTapClass_S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgonNguCSharp_BaiTapClass_HeCacDoiTuongHinhHoc", "NgonNguCSharp_BaiTapClass_HeCacDoiTuongHinhHoc\NgonNguCSharp_BaiTapClass_HeCacDoiTuongHinhHoc.csproj", "{730F115B-7CF5-406D-A6F9-348549E6F01C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgonNguCSharp_BaiTapClass_Fan", "NgonNguCSharp_BaiTapClass_Fan\NgonNguCSharp_BaiTapClass_Fan.csproj", "{0E8DA49D-8C27-454A-8B11-74BDDCF2E1A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{730F115B-7CF5-406D-A6F9-348549E6F01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{730F115B-7CF5-406D-A6F9-348549E6F01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{730F115B-7CF5-406D-A6F9-348549E6F01C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E8DA49D-8C27-454A-8B11-74BDDCF2E1A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E8DA49D-8C27-454A-8B11-74BDDCF2E1A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E8DA49D-8C27-454A-8B11-74BDDCF2E1A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E8DA49D-8C27-454A-8B11-74BDDCF2E1A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
